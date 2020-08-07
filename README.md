@@ -1,7 +1,6 @@
 ## Hey!
 
 My name is Abeer. I'm a software developer and I take special interest in databases, web development, software design , DIY projects and more.
-
 I like to work on challenging projects and I enjoy writing about it. I occasionally make myself available for contract work and consultancy.
 
 <!---
