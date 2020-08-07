@@ -1,16 +1,19 @@
 ## Hey!
 
+My name is Abeer. I'm a software developer and I take special interest in databases, web development, software design , DIY projects and more.
+
+I like to work on challenging projects and I enjoy writing about it. I occasionally make myself available for contract work and consultancy.
+
+<!---
      My name is Abeer. I'm a software developer and I take special interest in databases, web development, software design , DIY projects and more. 
      
      I like to work on challenging projects and I enjoy writing about it. I occasionally make myself available for contract work and consultancy. 
-
+-->
 
 ## Languages and Tools
 <p align="left">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
-
-
 
 ## Also
 
