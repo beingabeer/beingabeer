@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**beingabeer/beingabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     My name is Abeer. I'm a software developer and I take special interest in databases, web development, software design , DIY projects and more. 
+     
+     I like to work on challenging projects and I enjoy writing about it. I occasionally make myself available for contract work and consultancy. 
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/readyplayerlink)](https://twitter.com/readyplayerlink)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abeer-sewak/)](https://www.linkedin.com/in/abeer-sewak/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abeer.sewak@gmail.com)](mailto:abeer.sewak@gmail.com)
+
+
+### Languages and Tools
+<p align="left">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  
+</p>
+
+
+
+### Also
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
