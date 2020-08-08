@@ -11,7 +11,7 @@ I like to work on challenging projects and I enjoy writing about it. I occasiona
 
 ## Languages and Tools
 <p align="left">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  <img src="https://github.com/beingabeer/beingabeer/blob/master/logo/python3.gif" width="50"><img src="https://github.com/beingabeer/beingabeer/blob/master/logo/react.gif" width="50"><img src="https://github.com/beingabeer/beingabeer/blob/master/logo/html.gif" width="50"><img src="https://github.com/beingabeer/beingabeer/blob/master/logo/css.gif" width="50"><img src="https://github.com/beingabeer/beingabeer/blob/master/logo/javascript.gif" width="50"><img src="https://github.com/beingabeer/beingabeer/blob/master/logo/bootstrap.gif" width="50"><img src="https://github.com/beingabeer/beingabeer/blob/master/logo/vscode.gif" width="50">
 </p>
 
 ## Also
